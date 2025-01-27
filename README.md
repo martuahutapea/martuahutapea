@@ -3,16 +3,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <h1 align="center">Hi 👋, I'm Martua Hutapea</h1>
-<h3 align="center">"Stupidly Simple Solutions: Crazy Coding Capers for Idiot Geniuses"</h3>
+<h3 align="center">"Make it simple"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martuahutapea&label=Profile%20views&color=0e75b6&style=flat" alt="martuahutapea" /> </p>
 
 
 - 🔭 I’m currently working on **Project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **New Things**
 
-- 💬 Ask me about **PHP, Laravel**
+- 💬 Ask me about **Web-Dev**
 
 - 📫 How to reach me **example@gmail.com**
 
